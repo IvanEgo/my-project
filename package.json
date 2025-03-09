@@ -1,0 +1,19 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "my test project for lesson 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanEgo/my-project.git"
+  },
+  "author": "Ivan Egorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanEgo/my-project/issues"
+  },
+  "homepage": "https://github.com/IvanEgo/my-project#readme"
+}
